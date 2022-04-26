@@ -77,7 +77,7 @@ Python has become a staple in data science, allowing data analysts and other pro
 |13| **OOPs Concept** - Class & Objects, Constructors, Destructors, Inheritance | [Basic Python Projects - YouTube](https://www.youtube.com/playlist?list=PLu0W_9lII9agqZuv_XJen_BEHycIh-FmG)| [Exercise 11](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2011%20-%20OOPs%20Concept) | 
 |14| **OOPs Concept** - Polymorphism, Encapsulation | [Project 1: Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)| 
 |15| **OOPs Concept** - Data Abstraction, Python Super Function |  [Project 2: Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)|
-|16| **Exception Handling, File Handling** | [Exercise 12](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2012%20-%20Exception%20Handling) | 
+|16| **Exception Handling, File Handling** | | [Exercise 12](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2012%20-%20Exception%20Handling) | 
 |17| **Unit Testing in Python** | :white_check_mark:|
 
 **Prerequisite: [Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries)**
