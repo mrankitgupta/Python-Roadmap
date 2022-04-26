@@ -79,7 +79,7 @@ Python has become a staple in data science, allowing data analysts and other pro
 |15| **OOPs Concept** - Data Abstraction, Python Super Function |  [Project 2: Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)|
 |16| **Exception Handling, File Handling & Unit Testing in Python** | :white_check_mark:|
 
-**After learning [Python Programming](https://github.com/mrankitgupta/Python-Lessons), start with [Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries)**
+**Prerequisite: [Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries)**
  
 ### Projects in Python
  
