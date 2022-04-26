@@ -60,9 +60,35 @@ Python has become a staple in data science, allowing data analysts and other pro
 
  Python can build a wide range of different data visualizations, like line and bar graphs, pie charts, histograms, and 3D plots. Python also has a number of libraries that enable coders to write programs for data analysis and machine learning more quickly and efficiently.
  
+|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|------|--------------------|---------------------|---------------------|
+|1| **Python Basics** - Features Applications, Python 2 vs Python 3, Libraries uses, Interpreter Prompt, Script mode programming, IDEs, Features of an IDE, Compiler vs Interpreter, Pycharm - Featues, Important tools, Useful Plugins | [JavaTpoint](https://www.javatpoint.com/python-tutorial)| | 
+|2| Modules, Comments, Pip, Docstrings | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| 
+|3| Indentation, Packages in Python, Modules vs Packages | [YouTube 1](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
+|4| Variables, Declaring & Assigning Values, Object references, Object identity, Variable names, Multiple Assignment, Variable Types | [Youtube 2](https://www.youtube.com/watch?v=EyEqWFvLDT8)| 
+|5| Fundamentals of Python - Tokens, Keywords, Literals, Operators, Identifiers & Comments | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
+|6| Data Types - Numbers, Sequence Type, Dictionary, Set, Type Conversion | [Data Analysis with Python - by IBM](https://github.com/mrankitgupta)| 
+|7| **Collection Module** - String, List & Tuples, Sets, Dictionary & Different containers provided by collection module | [Data Visualization with Python](https://github.com/mrankitgupta)| 
+|8| **Control Flows** - Indentation, If-Else & ELIF Statements, For, While & Nested Loops, Control statements & Patterns | [Databases and SQL for Data Science with Python - by IBM](https://github.com/mrankitgupta)| 
+|9| **Functions** - Types of Functions, Arguments & it's Types, Scope of Variables, Built-in Functions | [Statistics for Data Science with Python - by IBM](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url)| 
+|10| **Functions** - Lambda Functions, Decorators, Generators | [HackerRank - Practice](https://www.hackerrank.com/mrankitgupta)| 
+|11| **Arrays** | [Code With Harry - Python Notes & Tutorial](https://www.codewithharry.com/videos/python-tutorial-easy-for-beginners)|
+|12| **Hash Tables / Hash Map** | [Python Cheatsheet - Code With Harry](https://www.codewithharry.com/blogpost/python-cheatsheet)|
+|13| **OOPs Concept** - Class & Objects, Constructors, Destructors, Inheritance | [Basic Python Projects - YouTube](https://www.youtube.com/playlist?list=PLu0W_9lII9agqZuv_XJen_BEHycIh-FmG)|
+|14| **OOPs Concept** - Polymorphism, Encapsulation | [Project 1: Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)|
+|15| **OOPs Concept** - Data Abstraction, Python Super Function |  [Project 2: Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)|
+|16| **Exception Handling, File Handling & Unit Testing in Python** | :white_check_mark:|
 
-
-  
+**After learning [Python Programming](https://github.com/mrankitgupta/Python-Lessons), start with [Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries)**
+ 
+### Projects in Python
+ 
+|**Sr.No. 🔢**|**Projects 👨‍💻**| **Reference Links :link:**|
+|------|--------------------|---------------------|
+|**Python Project 1**| Spotify Data Analysis using Python | [GitHub Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) & [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
+|**Python Project 2**| Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
+ 
+ 
 ## Useful sites to learn Coding in Python  :link:
 
 ### YouTube Channels:
