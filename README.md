@@ -1,4 +1,4 @@
-<h1 align="center">Python Lessons <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height=40"/> </a> </h1>
+<h1 align="center">Python Lessons <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height=40"/> </a> </h1>
 
 **I am sharing Python lessons from scratch to intermediate with practice sets which I have studied into my Journey of Data Science.** 
 
@@ -54,7 +54,7 @@ Since it’s relatively easy to learn, Python has been adopted by many non-progr
 
 <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
  
-## Python Lessons for Data Science <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
+## Python Lessons for Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
 
 Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks.
 
@@ -80,7 +80,7 @@ Python has become a staple in data science, allowing data analysts and other pro
 |16| **Exception Handling, File Handling** | | [Exercise 12](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2012%20-%20Exception%20Handling) | 
 |17| **Unit Testing in Python** | :white_check_mark:|
 
-**Prerequisite: [Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries)**
+**Prerequisite:** <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
  
 ### Projects in Python
  
