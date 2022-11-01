@@ -1,4 +1,4 @@
-<h1 align="center">Python Lessons <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height=40"/> </a> </h1>
+<h1 align="center">Complete Python Roadmap <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height=40"/> </a> </h1>
 
 **I am sharing Python lessons from scratch to intermediate with practice sets which I have studied into my Journey of Data Science.** 
 
