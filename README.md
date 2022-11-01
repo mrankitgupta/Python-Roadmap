@@ -82,7 +82,7 @@ Python has become a staple in data science, allowing data analysts and other pro
 |16| **Exception Handling, File Handling** | | [Exercise 12](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2012%20-%20Exception%20Handling) | 
 |17| **Unit Testing in Python** | :white_check_mark:|
 
-**Prerequisite:** <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
+**Prerequisite:** <code>[Python Libraries for Data Science Roadmap](https://github.com/mrankitgupta/Python-Libraries-Roadmap)</code> 🗂️
  
 ### Projects in Python
  
