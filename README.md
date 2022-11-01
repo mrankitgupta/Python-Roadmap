@@ -54,7 +54,7 @@ Since it’s relatively easy to learn, Python has been adopted by many non-progr
  
 <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
 
-<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
+<code>[Python Libraries for Data Science Roadmap](https://github.com/mrankitgupta/Python-Libraries-Roadmap)</code> 🗂️
  
 ## Python Lessons for Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
 
